@@ -1,3 +1,4 @@
+this is the git file 
 show databases;
 
 create database weekday_4to6;
@@ -14,6 +15,7 @@ death date
 );
 
 show tables;
+/show tables
 
 describe pet;
 
